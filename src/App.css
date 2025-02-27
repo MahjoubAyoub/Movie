@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .movie-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .filter input {
+    margin: 5px;
+    padding: 5px;
+  }
+  

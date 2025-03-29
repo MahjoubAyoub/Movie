@@ -28,12 +28,13 @@
     margin: 20px;
     background-color: white;
     width: 200px;
+    height: 360px;
     display: inline-block;
     text-align: center;
   }
   
   .movie-card img {
-    height: 180px;
+    height:200px ;
     width: 100%;
     border-radius: 8px;
   }
